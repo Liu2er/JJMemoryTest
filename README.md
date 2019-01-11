@@ -5,11 +5,9 @@
 
 这是我测得的 iPhone Xs Max 真机上的运行结果：
 
-<img src="./MDImages/JJMemoryTest 01.jpeg" width="50%" />
+<img src="./MDImages/JJMemoryTest 01.jpeg" width="40%" />
 
-<img src="./MDImages/JJMemoryTest 01.jpeg"/>
-
-这是其它设备的测试结果：
+其它设备的测试结果：
 
 ```
 iPad1: 127MB/256MB/49%
